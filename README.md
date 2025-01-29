@@ -50,7 +50,7 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out.
+If you have any questions or feedback, please feel free to reach me 
 
 - **Email:** vishalbharathonly@gmail.com
 - **GitHub:** [vishalbharath](https://github.com/vishalbharath)
